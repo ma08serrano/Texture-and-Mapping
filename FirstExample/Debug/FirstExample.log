@@ -1,0 +1,10 @@
+﻿  Triangles.cpp
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(200): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(201): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(212): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(214): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(216): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(218): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(220): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\beng\desktop\firstexample\firstexample\firstexample\triangles.cpp(222): warning C4305: '-=': truncation from 'double' to 'float'
+  FirstExample.vcxproj -> C:\Users\beng\Desktop\FirstExample\FirstExample\Debug\FirstExample.exe
